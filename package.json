@@ -1,0 +1,23 @@
+{
+  "name": "estudo_bem_css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass bem/main.scss bem/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimaAlysson/estudo_BEM_css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimaAlysson/estudo_BEM_css/issues"
+  },
+  "homepage": "https://github.com/LimaAlysson/estudo_BEM_css#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.86.0"
+  }
+}
